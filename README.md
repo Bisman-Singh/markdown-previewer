@@ -22,3 +22,5 @@ Open `index.html` in any modern browser. Type markdown in the left pane and see 
 - HTML5
 - CSS3 (custom properties, flexbox)
 - Vanilla JavaScript (no frameworks or libraries)
+
+<sub><sup>Originally developed and tested locally during learning. Later organized and pushed to GitHub for portfolio visibility.</sup></sub>
